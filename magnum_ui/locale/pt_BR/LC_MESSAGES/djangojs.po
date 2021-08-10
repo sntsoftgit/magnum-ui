@@ -1,0 +1,238 @@
+# Andreas Jaeger <jaegerandi@gmail.com>, 2016. #zanata
+# Ian Y. Choi <ianyrchoi@gmail.com>, 2017. #zanata
+msgid ""
+msgstr ""
+"Project-Id-Version: magnum-ui 2.1.1.dev147\n"
+"Report-Msgid-Bugs-To: https://bugs.launchpad.net/openstack-i18n/\n"
+"POT-Creation-Date: 2017-02-06 00:13+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-02-05 08:28+0000\n"
+"Last-Translator: Ian Y. Choi <ianyrchoi@gmail.com>\n"
+"Language-Team: Portuguese (Brazil)\n"
+"Language: pt-BR\n"
+"X-Generator: Zanata 3.7.3\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+
+msgid "API Address"
+msgstr "Endereço de API"
+
+msgid "API Server Port"
+msgstr "Porta do Servidor de API"
+
+msgid "An arbitrary human-readable name"
+msgstr "Um nome legível arbitrário"
+
+msgid "COE"
+msgstr "MOC"
+
+msgid "Choose a Container Orchestration Engine"
+msgstr "Escolha um mecanismo de orquestração de Container"
+
+msgid "Choose a Flavor for the Master Node"
+msgstr "Escolha um Sabor para o Nó Principal"
+
+msgid "Choose a Flavor for the Node"
+msgstr "Escolha um Sabor para o nó"
+
+msgid "Choose a Keypair"
+msgstr "Escolha um par de chaves"
+
+msgid "Choose a Network Driver"
+msgstr "Escolha um driver de Rede:"
+
+msgid "Choose a Volume Driver"
+msgstr "Escolha um Driver de Volume"
+
+msgid "Choose an Image"
+msgstr "Escolha uma imagem"
+
+msgid "Cinder"
+msgstr "Cinder"
+
+msgid "Cluster Distro"
+msgstr "Distribuição do Cluster"
+
+msgid "Cluster Type"
+msgstr "Tipo de Cluster"
+
+msgid "Container Orchestration Engine"
+msgstr "Mecanismo de Orquestração de Contêiner"
+
+msgid "Create"
+msgstr "Criar"
+
+msgid "Created"
+msgstr "Criado"
+
+msgid "DNS"
+msgstr "DNS"
+
+msgid "Disable TLS"
+msgstr "Desativar TLS"
+
+msgid "Discovery URL"
+msgstr "URL de Descoberta"
+
+msgid "Docker"
+msgstr "Docker"
+
+msgid "Docker Swarm"
+msgstr "Docker Swarm"
+
+msgid "Docker Volume Size"
+msgstr "Tamanho de volume do Docker"
+
+msgid "Docker Volume Size (GB)"
+msgstr "Tamanho de volume do Docker (GB)"
+
+msgid "Enable Registry"
+msgstr "Habilitar Registro"
+
+msgid "External Network ID"
+msgstr "ID da Rede Externa"
+
+msgid "Fixed Network"
+msgstr "Rede Fixa"
+
+msgid "Flannel"
+msgstr "Flannel"
+
+msgid "Flavor"
+msgstr "Flavor"
+
+msgid "Flavor ID"
+msgstr "ID do Flavor"
+
+msgid "HTTP Proxy"
+msgstr "Proxy HTTP"
+
+msgid "HTTPS Proxy"
+msgstr "Proxy HTTPS"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Image"
+msgstr "Imagem"
+
+msgid "Image ID"
+msgstr "ID da Imagem"
+
+msgid "Infinite"
+msgstr "Infinito"
+
+msgid "Info"
+msgstr "Informação"
+
+msgid "Keypair"
+msgstr "Par de chaves"
+
+msgid "Kubernetes"
+msgstr "Kubernetes"
+
+msgid "Labels"
+msgstr "Rótulos"
+
+msgid "Master Addresses"
+msgstr "Endereço Principal"
+
+msgid "Master Count"
+msgstr "Contagem Principal"
+
+msgid "Master Flavor"
+msgstr "Flavor Principal"
+
+msgid "Master Flavor ID"
+msgstr "ID do Sabor Principal"
+
+msgid "Mesos"
+msgstr "Mesos"
+
+msgid "Misc"
+msgstr "Outros"
+
+msgid "Miscellaneous"
+msgstr "Diversos"
+
+msgid "Name"
+msgstr "Nome"
+
+msgid "Network"
+msgstr "Rede"
+
+msgid "Network Driver"
+msgstr "Driver de Rede"
+
+msgid "No Proxy"
+msgstr "Sem Proxy"
+
+msgid "Node Addresses"
+msgstr "Endereços dos Nós"
+
+msgid "Node Count"
+msgstr "Contagem de nós"
+
+msgid "Node Spec"
+msgstr "Especificação do Nó"
+
+msgid "Nodes"
+msgstr "Nós"
+
+msgid "Overlay"
+msgstr "Overlay"
+
+msgid "Overview"
+msgstr "Visão Geral"
+
+msgid "Public"
+msgstr "Público"
+
+msgid "Record Properties"
+msgstr "Propriedades do Registro"
+
+msgid "Registry Enabled"
+msgstr "Registro Habilitado"
+
+msgid "Rexray"
+msgstr "Rexray"
+
+msgid "Server Type"
+msgstr "Tipo de Servidor"
+
+msgid "Size"
+msgstr "Tamanho"
+
+msgid "Specifies custom discovery url for node discovery."
+msgstr "Especifica uma URL de descoberta customizada para a descoberta do nó. "
+
+msgid "Specify the Container Orchestration Engine to use."
+msgstr "Especifique o Mecanismo de Orquestração de Container"
+
+msgid "Specify the size in GB for the docker volume"
+msgstr "Especifique o tamanho em GB que o volume do docker usará."
+
+msgid "Stack ID"
+msgstr "ID Pilha"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "TLS Disabled"
+msgstr "TLS Desabilitado"
+
+msgid "The size in GB for Docker Volume. Default: 25"
+msgstr "O tamanho em GB para o Volume do Docker. Default: 25"
+
+msgid "This should really be named fixed-network-cidr. Default: 10.0.0.0/24"
+msgstr "Isto deveria ser chamado de fixed-network-cidr. Padrão: 10.0.0.0/24"
+
+msgid "Timeout"
+msgstr "Tempo limite"
+
+msgid "Updated"
+msgstr "Atualizado"
+
+msgid "Volume Driver"
+msgstr "Driver do Volume"
